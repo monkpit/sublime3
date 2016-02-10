@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Emmet",
+		"JavaScriptNext - ES6 Syntax",
+		"Jedi - Python autocompletion",
+		"KeymapEnhanced",
+		"MagicPython",
+		"MarkdownEditing",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control"
+	]
+}

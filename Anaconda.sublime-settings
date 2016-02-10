@@ -1,0 +1,6 @@
+{
+    "suppress_word_completions": true,
+    "suppress_explicit_completions": true,
+    "disable_anaconda_completion": true,
+
+}
